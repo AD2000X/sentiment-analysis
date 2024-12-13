@@ -2,14 +2,13 @@
 
 ## Introduction
 
-This project builds upon earlier research to further examine the stylistic and emotional characteristics found in the works of two renowned British authors, **Jane Austen** and **Charles Dickens**. In Part 1 of our study, we discovered that Austen’s writing tends to exhibit a more positive overall sentiment, while Dickens’s works display greater emotional fluctuations and a higher proportion of neutral sentiment. In Part 2, we aim to deepen this analysis by exploring additional dimensions, including syntactic structure, part-of-speech distribution (adjectives, adverbs, and verbs), and sentiment analysis with compound and subjectivity indices. Advanced techniques such as TF-IDF, Named Entity Recognition (NER), and semantic search using BERT will also be applied.
+This project builds upon earlier research to further examine the stylistic and emotional characteristics found in the works of two renowned British authors, **Jane Austen** and **Charles Dickens**. In Part 1 of our study, we discovered that Austen’s writing tends to exhibit a more positive overall sentiment, while Dickens’s works display greater emotional fluctuations and a higher proportion of neutral sentiment. In Part 2, we aim to deepen this analysis by exploring additional dimensions, including syntactic structure, part-of-speech distribution (adjectives, adverbs, and verbs), and sentiment analysis with compound and subjectivity indices. Advanced techniques such as TF-IDF, and Named Entity Recognition (NER).
 
 ### **Key Objectives:**
 - Analyze the syntactic structures and part-of-speech distributions of the two authors.
 - Conduct sentiment analysis enriched by compound and subjectivity indices.
 - Explore the application of TF-IDF to identify term importance.
 - Perform Named Entity Recognition (NER) to analyze character-based sentiment.
-- Utilize semantic search with BERT to uncover deeper semantic relationships.
 
 ### **Significance:**
 By integrating traditional and advanced Natural Language Processing (NLP) methods, this project aims to provide:

@@ -1,6 +1,6 @@
 # Writing Style Differences between Jane Austen and Charles Dickens
 
-Follow the passion to Sentiment Analysis in NLP, we conduct our first sentiment project as our first assignment in study.  
+Follow the passion to Sentiment Analysis in NLP, we conduct our first sentiment analysis project as our first assignment in study.  
   
 
 ## PART 1

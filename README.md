@@ -36,12 +36,12 @@ Additionally, the results help us:
 This project aims to build upon earlier research by further examining the stylistic and emotional characteristics found in the works of **Jane Austen** and **Charles Dickens**.
 
 ### PART 1 Findings
-In the first phase (CW1), we discovered:
+We discovered:
 - **Austen’s writing** tends to be more positively inclined overall.
 - **Dickens’s works** display greater emotional fluctuation and a higher proportion of neutral sentiment.
 
 ### PART 2 Objectives
-In this second phase (CW2), we use the same **pre-processed dataset** to conduct a more in-depth analysis:
+We use the same **pre-processed dataset** to conduct a more in-depth analysis:
 - **Syntactic structure analysis**
 - **Part-of-speech distribution** (adjectives, adverbs, and verbs)
 - **Sentiment analysis** enriched by:

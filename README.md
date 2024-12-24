@@ -50,7 +50,6 @@ We use the same **pre-processed dataset** to conduct a more in-depth analysis:
 - Advanced NLP techniques:
   - **TF-IDF** (Term Frequency-Inverse Document Frequency)
   - **Named Entity Recognition (NER)**
-  - **Semantic search using BERT**
 
 ### Goal
 By integrating both **traditional** and **advanced NLP methods**, we aim to:

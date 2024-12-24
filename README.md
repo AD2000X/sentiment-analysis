@@ -47,7 +47,6 @@ We use the same **pre-processed dataset** to conduct a more in-depth analysis:
 - **Sentiment analysis** enriched by:
   - **Compound sentiment** indices
   - **Subjectivity** indices
-- Advanced NLP techniques:
   - **TF-IDF** (Term Frequency-Inverse Document Frequency)
   - **Named Entity Recognition (NER)**
 
